@@ -1,4 +1,4 @@
-# PyMobileProvision
+# Py2MobileProvision
 
 parse ".mobileprovision" file in MacOS System;
 
@@ -9,7 +9,7 @@ parse ".mobileprovision" file in MacOS System;
 
 ```
 
-pip install PyMobileProvision
+pip install Py2MobileProvision
 
 ```
 
